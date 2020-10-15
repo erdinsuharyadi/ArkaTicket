@@ -1,0 +1,24 @@
+{
+  "name": "arkaticket",
+  "version": "1.0.0",
+  "description": "Backend Arka Ticket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erdinsuharyadi/ArkaTicket.git"
+  },
+  "keywords": [
+    "arkaticket",
+    "express",
+    "nodejs"
+  ],
+  "author": "Erdin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erdinsuharyadi/ArkaTicket/issues"
+  },
+  "homepage": "https://github.com/erdinsuharyadi/ArkaTicket#readme"
+}
